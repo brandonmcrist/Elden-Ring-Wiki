@@ -1,0 +1,22 @@
+.EldenText {
+    color: rgb(168, 119, 46);
+    font-family: "Agmena Pro";
+}
+
+body {
+    background-image: url('/img/Elden-ring-background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+@import url(//db.onlinewebfonts.com/c/b0dde3c6bfa97bbbecf194ef9e5d7abf?family=Agmena+Pro);
+
+@font-face {
+    font-family: "Agmena Pro"; 
+    src: url("//db.onlinewebfonts.com/t/b0dde3c6bfa97bbbecf194ef9e5d7abf.eot"); 
+    src: url("//db.onlinewebfonts.com/t/b0dde3c6bfa97bbbecf194ef9e5d7abf.eot?#iefix") format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/b0dde3c6bfa97bbbecf194ef9e5d7abf.woff2") format("woff2"), 
+    url("//db.onlinewebfonts.com/t/b0dde3c6bfa97bbbecf194ef9e5d7abf.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/b0dde3c6bfa97bbbecf194ef9e5d7abf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b0dde3c6bfa97bbbecf194ef9e5d7abf.svg#Agmena Pro") format("svg"); 
+}
